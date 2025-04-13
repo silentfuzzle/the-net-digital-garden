@@ -3,7 +3,7 @@
 ---
 
 
-# The Net
+# [The Net](https://the-net-digital-garden.vercel.app/)
 A non-linear saga outline.
 
 [[Timelines/Twelve's Design Prequel\|Start Here]]
@@ -20,6 +20,7 @@ For a full history of edits, see The Net's BitBucket repository [here](https://b
 * Split, edited, and expanded [[Timelines/Twelve's Design Prequel\|Twelve's Design Prequel]].
 * Organized pages into folders.
 * Wrote [[Events/Jigo Kadas Lives\|Jigo Kadas Lives]].
+* Wrote the Home page.
 
 ### 04/11/2025
 * Edited to make Obsidian Digital Garden happy.
@@ -42,3 +43,4 @@ Writing
 * Transfer notes from Scrivener.
 * Transfer chapters from the Kasta e-book.
 * Fill in Draska Bakein.
+* Write barkes basics.
