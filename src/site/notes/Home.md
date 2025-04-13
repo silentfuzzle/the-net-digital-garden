@@ -6,11 +6,11 @@
 # The Net
 A non-linear saga outline.
 
+[[Timelines/Twelve's Design Prequel\|Start Here]]
+
 Written by [Emily Palmieri](https://opengatesmedia.com/).
 Written with [Obsidian](https://obsidian.md/).
 Published via [Obsidian Digital Garden](https://dg-docs.ole.dev/).
-
-[[Timelines/Twelve's Design Prequel\|Start Here]]
 
 ## Version History
 
@@ -28,7 +28,11 @@ For a full history of edits, see The Net's BitBucket repository [here](https://b
 * Published initial pages and edited to make BitBucket happy.
 
 ## Coming Soon
+Technical
 * The BitBucket repository is sad since adding folders.
+* Find a decent theme.
+
+Writing
 * Continue expanding [[Timelines/Twelve's Design Prequel\|Twelve's Design Prequel]].
 * Kadas Laser Rifles
 * Court Attendants
