@@ -1,0 +1,23 @@
+---
+{"dg-publish":true,"permalink":"/events/kwil-farkos-sentence/"}
+---
+
+When it becomes clear Logan will survive, Kwil informs the others that he will need to be returned home and be observed. He won't be happy on their worlds. It does, however, present an opportunity to study whatever they have created and to see how he integrates into society. While Kwil sounds distant from what he describes to the GPO director [[Figures/Draska Bakein\|Draska Bakein]], Hako knows his devastation as well as she knows her own. Draska knows it is a disaster as well as anyone who was involved in Kwil's project.
+
+Kwil volunteers himself to watch Logan, and he recommends they treat it as exile for his crimes. Hako volunteers to join him, but Draska points out that's hardly an exile to send married partners to the same planet. Kwil agrees but because he doesn't want Hako there. He doesn't admit it aloud, but he believes he should be punished alone. He has dreamed that something evil within him caused this nightmare, and he's told no one of his daughter. Draska, knowing his connections to Jigo and biased against his deviance, is eager to see him punished and blamed for the GPO's failures.
+
+Hako demands mediation from the pajar. They re-explain their predicament to the pajar in a closed court session: no observers. Closed court session are determined by the fanva in only the rarest circumstances. In this case, the fanva saw the possibility of mass panic should any observers leak what was happening within the GPO to the public. And observers loyal to the gods had every right to do so.
+
+Disturbed by the GPO's story, the pajar agrees Logan must be returned home. He has suffered enough. The damage their intrusion into human society caused has already been done. All they can do is observe the aftermath. Punishment must also be dealt to demonstrate to the gods that they will atone for their crimes and take responsibility for the consequences. They need to convince the gods not to do worse.
+
+Kwil is exiled to Earth for the remainder of Logan's life and Kadas afterward. After the GPO reveals what they have done to the public, everyone who participated in the experiment will also be exiled to Kadas. That should not happen immediately though. The pajar hopes Kwil can find a worthwhile result from his experiment to prevent mass panic. Until then, no one in the room is to speak of what has happened. The other members of the project are to go about their lives, give the impression that the state of the GPO hasn't changed.
+
+Draska is outraged that she will also be punished for Kwil's actions. Kwil is a deviant, susceptible to illogical manipulation from his sexual partners, and Jigo Kadas, the war monger, is one of them. The pajar dismisses her complaints as irrelevant and inappropriate. Draska consoles herself that she will find a way to prove all of this is Jigo's doing. His influence on Kwil was done with intent to start a war. The pajar's delay in her punishment has given her time to figure out how to avoid it all together.
+
+Hako protests that she should be the one condemned to Earth. She performed the surgery. She condoned Kwil's use of mind manipulation. She is a doctor sworn to do no harm, and she agreed to perform an unnecessary surgery to a patient under duress. The pajar entertains her suggestion. Kwil, who has portrayed nothing but calm acceptance of his punishment, however, descends into a fit of hysteria. He doesn't want Hako to witness what he's done, to watch what's left of Logan, to bear the burden of his guilt.
+
+"Kwil, you are making me think this punishment is far more fitting for you," the pajar says darkly.
+
+Hako has the opposite reaction. "Pajar, I rescind my suggestion. We've caused enough suffering. The gods would not smile upon torture." She knows Kwil's history of depression and doesn't want him to become suicidal. It's better he have something to do, some sliver of hope, even if it means he will take more responsibility than he should.
+
+The pajar agrees to their original arrangement. Hako and Kwil have until the end of the court session to say their goodbyes. Kwil's exile will begin immediately within the GPO Headquarters until Logan is ready to return to Earth. Kwil and Hako's marriage contract will remain intact to avoid suspicion. Should they choose to break it after the GPO's failure is made public, it will be done remotely through a Court Attendant. He and Hako are to never see each other again.
