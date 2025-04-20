@@ -8,13 +8,18 @@ A non-linear saga outline.
 
 [[Timelines/Twelve's Design Prequel\|Start Here]]
 
-Written by [Emily Palmieri](https://opengatesmedia.com/).
-Written with [Obsidian](https://obsidian.md/).
-Published via [Obsidian Digital Garden](https://dg-docs.ole.dev/).
+Written by [Emily Palmieri](https://opengatesmedia.com/)
+Written with [Obsidian](https://obsidian.md/)
+Published via [Obsidian Digital Garden](https://dg-docs.ole.dev/)
 
 ## Version History
 
 For a full history of edits, see The Net's BitBucket repository [here](https://bitbucket.org/silentfuzzle/thenet/wiki/Home).
+
+### 04/20/2025
+* Split [[Timelines/Twelve's Design Prequel\|Twelve's Design Prequel]] into [[Events/Hako Pital in Hiding\|Hako Pital in Hiding]]
+* Wrote [[Concepts/Exiles\|Exiles]]
+* Wrote [[Concepts/The Great Peace Organization\|The Great Peace Organization]]
 
 ### 04/13/2025
 * Split, edited, and expanded [[Timelines/Twelve's Design Prequel\|Twelve's Design Prequel]].
