@@ -14,7 +14,7 @@ Published via [Obsidian Digital Garden](https://dg-docs.ole.dev/)
 
 ## Version History
 
-For a full history of edits, see The Net's BitBucket repository [here](https://bitbucket.org/silentfuzzle/thenet/wiki/Home).
+For a full history of edits, see The Net's BitBucket repository [here](https://bitbucket.org/silentfuzzle/thenet/src/main/).
 
 ### 04/20/2025
 * Split [[Timelines/Twelve's Design Prequel\|Twelve's Design Prequel]] into [[Events/Hako Pital in Hiding\|Hako Pital in Hiding]]
