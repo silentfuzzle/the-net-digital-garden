@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/concepts/the-great-peace-organization/"}
+---
+
+The Great Peace Organization (GPO), named in opposition to The Great War, was founded for the purpose of fulfilling the gods' command to spread peace across the universe. As with all organized efforts in baltarik society, the GPO is funded entirely through individual donations of resources and services.
+
+While at its founding donations were given entirely out of fear of the gods' wrath, during the era of its expeditions to Earth, the GPO was also funded through public archive contribution requests. GPO researchers sent to Earth for long-term residence or short, information-gathering expeditions returned books, articles, movies, audio, and other entertainment and educational content on a variety of subjects. GPO researchers based on Ji, where the GPO Headquarters is located, processed these files into formats for public consumption in the digital archives accessible through libraries across the five planets. The wealth of information gathered and published over the GPO's fifty years of expeditions naturally fed a variety of interests, research, and hobbies in baltariks across the galaxy. During this era, donations to the GPO were frequently attached to requests for more information on a subject or the next installment of a piece of entertainment.
+
+The flow of contributions to the archives was small and sporadic in the thirty years prior to the GPO's long-term residence on Earth. Researchers made occasional short, expeditions to Earth to gather materials to study and publish. Contributions slowly increased as the time needed to decipher and translate human languages and digital file formats decreased.
+
+Contributions were most profitable, during the first seventeen of the GPO's twenty year residence on Earth, where contributions were added daily. The GPO maintained 5-10 researchers on Earth and dedicated 30-50 GPO members to processing and publishing the constant flow of materials returned to Ji.
+
+The GPO's flow of information and number of employees dropped sharply in the last three years of its occupation. During this time, the GPO maintained 1-3 researchers on Earth. Contributions continued to maintain the GPO's public image, but research was primarily focused on the failed Logan Cusick Experiment, which was only revealed to the public at the end of the GPO's long-term residence on Earth. The drop in information didn't go unnoticed. It was a contributing factor to the public's growing concern with the GPO's status in the eyes of the gods.
