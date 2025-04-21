@@ -20,6 +20,7 @@ For a full history of edits, see The Net's BitBucket repository [here](https://b
 * Split [[Timelines/Twelve's Design Prequel\|Twelve's Design Prequel]] into [[Events/Hako Pital in Hiding\|Hako Pital in Hiding]]
 * Wrote [[Concepts/Exiles\|Exiles]]
 * Wrote [[Concepts/The Great Peace Organization\|The Great Peace Organization]]
+* Moved repository from Wiki to main repository
 
 ### 04/13/2025
 * Split, edited, and expanded [[Timelines/Twelve's Design Prequel\|Twelve's Design Prequel]].
@@ -35,10 +36,12 @@ For a full history of edits, see The Net's BitBucket repository [here](https://b
 
 ## Coming Soon
 Technical
-* The BitBucket repository is sad since adding folders.
+
 * Find a decent theme.
+* Chat GPT is useful for the dry notes.
 
 Writing
+
 * Continue expanding [[Timelines/Twelve's Design Prequel\|Twelve's Design Prequel]].
 * Kadas Laser Rifles
 * Court Attendants

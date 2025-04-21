@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/events/hako-pital-in-hiding/"}
 ---
 
-Knowing Jigo Kadas will continue pestering her at the end of his ban from Ji, Hako moves to Marti where her family lives. She makes arrangements with Draska to continue working as an archivist for the [[Concepts/The Great Peace Organization\|GPO]] from there. Primarily, she digitizes, redacts, edits, and organizes Kwil's continued written and verbal reports for public consumption or for private storage in the GPO's vault. Draska suggests they request Jigo be permanently banned from Ji instead. Hako's more sensitive work would be better kept within GPO's Headquarters. Hako doesn't want Jigo punished for her crimes though. Kwil would not want that either.
+Knowing Jigo Kadas will continue pestering her at the end of his ban from Ji, Hako moves to Marti where her family lives. She makes arrangements with Draska to continue working as an archivist for the [[Concepts/The Great Peace Organization\|GPO]] from there. Primarily, she digitizes, redacts, edits, and organizes Kwil's continued written and verbal reports for public consumption or for private storage in the GPO's vault. Draska suggests they request Jigo be [[Concepts/Exiles\|permanently banned]] from Ji instead. Hako's more sensitive work would be better kept within GPO's Headquarters. Hako doesn't want Jigo punished for her crimes though. Kwil would not want that either.
 
 Two years into Kwil's exile, his deteriorating mental health--paranoia, anxiety, depression, and feelings of being sinful and tainted--pushed Hako to desperation. She decides to ask Jigo for help. She follows the latest rumors of the zarkis' whereabouts and uses the nearest kasta center to go to him.
 
