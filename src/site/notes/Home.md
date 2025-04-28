@@ -50,7 +50,6 @@ Writing
 
 * Continue expanding [[Timelines/Twelve's Design Prequel\|Twelve's Design Prequel]].
 * Kadas Laser Rifles
-* Court Attendants
 * Add links to Events pages.
 * Transfer notes from EverNote.
 * Transfer notes from Scrivener.
