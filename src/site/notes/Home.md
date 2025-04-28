@@ -16,6 +16,12 @@ Published via [Obsidian Digital Garden](https://dg-docs.ole.dev/)
 
 For a full history of edits, see The Net's BitBucket repository [here](https://bitbucket.org/silentfuzzle/thenet/src/main/).
 
+### 04/27/2025
+* Wrote [[Concepts/Court Attendants\|Court Attendants]]
+* Wrote [[Concepts/Time Measurements\|Time Measurements]]
+* Edited [[Concepts/Exiles\|Exiles]]
+* Transferred posts from The Net WordPress.
+
 ### 04/20/2025
 * Split [[Timelines/Twelve's Design Prequel\|Twelve's Design Prequel]] into [[Events/Hako Pital in Hiding\|Hako Pital in Hiding]]
 * Wrote [[Concepts/Exiles\|Exiles]]
@@ -46,7 +52,6 @@ Writing
 * Kadas Laser Rifles
 * Court Attendants
 * Add links to Events pages.
-* Transfer posts from The Net WordPress.
 * Transfer notes from EverNote.
 * Transfer notes from Scrivener.
 * Transfer chapters from the Kasta e-book.
