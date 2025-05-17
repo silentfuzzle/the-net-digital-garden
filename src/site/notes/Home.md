@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
 ---
 
-
 # [The Net](https://the-net-digital-garden.vercel.app/)
 A non-linear saga outline.
 
@@ -16,6 +15,12 @@ Published via [Obsidian Digital Garden](https://dg-docs.ole.dev/)
 
 For a full history of edits, see The Net's BitBucket repository [here](https://bitbucket.org/silentfuzzle/thenet/src/main/).
 
+### 05/17/2025
+* Wrote [[Barkes/Baltarik Title Construction\|Baltarik Title Construction]]
+* Wrote [[Barkes/Barkes Alphabet using Latin Characters\|Barkes Alphabet using Latin Characters]]
+* Wrote [[Barkes/Barkes Demo\|Barkes Demo]]
+* Wrote [[Barkes/Parts of Speech\|Parts of Speech]]
+* Edited [[Concepts/Need Sanctuaries\|Need Sanctuaries]]
 ### 05/05/2025
 * Wrote [[Timelines/Chronology of Events\|Chronology of Events]]
 * Renamed and edited [[Timelines/Kwil Farkos' Sins\|Kwil Farkos' Sins]]
