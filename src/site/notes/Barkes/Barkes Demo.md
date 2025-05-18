@@ -3,20 +3,21 @@
 ---
 
 ## Takw (Taku)
-Singular Noun: takw (courage, a courageous person or thing)
+Singular Noun: takw (courage)
+Proper Noun: takwl (a courageous person or thing)
 Plural Noun: takwn (multiple courageous persons or things)
 Infinitive Verb: takwp (to display courage)
-Past Verb: takwt
+Past Verb: takwd
 Present Verb: takwr
 Future Verb: takwm
 Adjective: takwsk
 Adverb: takwlk (courageously)
 
-tor takw takwt takwlk
+kur takw takwt takwlk
 The not courageous one displayed courage courageously.
 
-xa takwm
-She will display courage.
+xa takwr
+She displays courage.
 
 takw takwr
 The courageous one displays courage.
@@ -26,62 +27,96 @@ You, courageous, will display courage.
 
 ------
 ## Morti
-Singular Noun: morti (dead, a dead person or thing)
+Singular Noun: morti (dead)
+Proper Noun: mortil (a dead person or thing)
 Plural Noun: mortin (multiple dead persons or things)
 Infinitive Verb: mortip (to represent death, to die)
-Past Verb: mortit
+Past Verb: mortid
 Present Verb: mortir
 Future Verb: mortim
 Adjective: mortisk
 Adverb: mortilk
 
-takw mortim
+takwl mortim
 The courageous one will die.
 
-takw tor mortisk mortim
-The undead courageous one will die.
+takw doc kantisk mortim
+The very energetic courage will die.
 
-ca takwr tor mortilk
-It displays courage unlike the dead.
+ca takwr kur mortilk
+It displays un-deadly courage.
 
 ---
 ## Paja
-Singular Noun: paja (judgement, a person or thing displaying judgement)
+Singular Noun: paja (judgement)
+Proper Noun: pajal (a person or thing displaying judgement)
 Plural Noun: pajan (multiple persons or things representing judgement)
 Infinitive Verb: pajap (to display judgement, to judge)
-Past Verb: pajat
+Past Verb: pajad
 Present Verb: pajar
 Future Verb: pajam
 Adjective: pajask (judgmental)
 Adverb: pajalk (judgmentally)
 
-da kox dac takwsk iti mal pajask xok mortim
+da kox doc takwsk iti mal pajask xok mortim
 You, very courageous and slightly judgmental, will die.
 
 mortin pajar
-The dead judge.
+Dead things judge.
 
 pajan pajam pajalk
 The judgmental will judge judgmentally.
 
-----
-## Jadu
-Singular Noun: jadu (water, a person or thing representing water)
-Plural Noun: jadun (multiple persons or things representing water)
-Infinitive Verb: jadup (to represent water)
-Past Verb: jadut
-Present Verb: jadur
-Future Verb: jadum
-Adjective: jadusk
-Adverb: jadulk
+---
+## Kwy (Kooih)
+Singular Noun: kwy (bird)
+Proper Noun: kwyl (a person or thing representing a bird)
+Plural Noun: kwyn (multiple persons or things representing a bird)
+Infinitive Verb: kwyp (to represent a bird)
+Past Verb: kwyd
+Present Verb: kwyr
+Future Verb: kwym
+Adjective: kwysk
+Adverb: kwylk
 
-morti jadum
-Someone dead will become water.
-
-da tor jadur
-You don't represent water.
-
-
+kwyns paja kadam
+The birds' judgment will kill.
 
 ---
-## Zaru
+## To
+Singular Noun: to (the present)
+Proper Noun: tos (a person or thing representing the present)
+Plural Noun: ton (multiple persons or things representing the present)
+Infinitive Verb: top (to represent the present)
+Past Verb: tod
+Present Verb: tor
+Future Verb: tom
+Adjective: tosk
+Adverb: tolk
+
+ca tor 
+It represents the present.
+
+ca kwyr tarl tolk
+It is a bird always.
+
+ca kwyr tolk
+It is a bird presently
+
+ca tor doc tolk
+It represents the present mostly.
+
+kur xa mal takwm doc tolk
+The not-she will slightly represent courage mostly.
+
+doc zarkis mortir
+The very dirty one dies.
+
+morti jadwm
+The dead will become water.
+
+zarki jadwm kur tolk
+Dirt will never represent water.
+
+da kur jadwr
+You don't represent water.

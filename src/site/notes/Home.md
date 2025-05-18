@@ -15,9 +15,14 @@ Published via [Obsidian Digital Garden](https://dg-docs.ole.dev/)
 
 For a full history of edits, see The Net's BitBucket repository [here](https://bitbucket.org/silentfuzzle/thenet/src/main/).
 
+### 05/18/2025
+* Edited [[Barkes/Baltarik Title Construction\|Baltarik Title Construction]]
+* Edited [[Barkes/Barkes Romanized Script\|Barkes Romanized Script]]
+* Edited [[Barkes/Barkes Demo\|Barkes Demo]]
+* Edited [[Barkes/Parts of Speech\|Parts of Speech]]
 ### 05/17/2025
 * Wrote [[Barkes/Baltarik Title Construction\|Baltarik Title Construction]]
-* Wrote [[Barkes/Barkes Alphabet using Latin Characters\|Barkes Alphabet using Latin Characters]]
+* Wrote [[Barkes/Barkes Romanized Script\|Barkes Romanized Script]]
 * Wrote [[Barkes/Barkes Demo\|Barkes Demo]]
 * Wrote [[Barkes/Parts of Speech\|Parts of Speech]]
 * Edited [[Concepts/Need Sanctuaries\|Need Sanctuaries]]

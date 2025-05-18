@@ -2,46 +2,39 @@
 {"dg-publish":true,"permalink":"/barkes/baltarik-title-construction/"}
 ---
 
-kal - after
-suk - before
+kul - after
+swk - before
 
 ni - god
 nin - gods
 nisk - god-like
 nilk - godly
 
-jadu - water
-jadu nisk - god-like water
-jaduni - water god
-jadunin - water gods
+jadw - water
+jadw nisk - god-like water
+jadwni - water god
+jadwnin - water gods
 
 paja - one who judges
 paja nisk - god-like judge
-kal paja nisk - after the god-like judge
-suk paja nisk - before the god-like judge
+kul paja nisk - after the god-like judge
+swk paja nisk - before the god-like judge
 pajani - judge god
-kalpajani - the judge god's successor
-sukpajani - the judge god's predecessor
+kulpajani - the judge god's successor
+swkpajani - the judge god's predecessor
 
 fanva - translator
 fanva nisk - god-like translator
-kal fanva nisk - after the god-like translator
-suk fanva nisk - before the god-like translator
-fanvani - the translator god
-kalfanvani - the translator god's successor
-sukfanvani - the translator god's predecessor
+kul fanva nisk - after the god-like translator
+swk fanva nisk - before the god-like translator
+fanvani - translator god
+kulfanvani - the translator god's successor
+swkfanvani - the translator god's predecessor
 
 kasta - transporter
 kasta nisk - god-like transporter
 kastani - transporter god
 
-sonki - plant
-
-zarki - dirt
-
-
-morti
-dead
-
-porti
-ghost
+kanti - energy
+kanti nisk - god-like energy
+kantini - god energy
