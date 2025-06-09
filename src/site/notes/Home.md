@@ -15,6 +15,11 @@ Published via [Obsidian Digital Garden](https://dg-docs.ole.dev/)
 
 For a full history of edits, see The Net's BitBucket repository [here](https://bitbucket.org/silentfuzzle/thenet/src/main/).
 
+### 06/08/2025
+* Edited [[Barkes/Baltarik Title Construction\|Baltarik Title Construction]]
+* Edited [[Barkes/Barkes Demo\|Barkes Demo]]
+* Edited [[Barkes/Dictionary\|Dictionary]]
+* Edited [[Barkes/Parts of Speech\|Parts of Speech]]
 ### 05/18/2025
 * Edited [[Barkes/Baltarik Title Construction\|Baltarik Title Construction]]
 * Edited [[Barkes/Barkes Romanized Script\|Barkes Romanized Script]]

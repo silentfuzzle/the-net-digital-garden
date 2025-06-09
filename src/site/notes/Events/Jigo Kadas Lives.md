@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/events/jigo-kadas-lives/"}
 ---
 
-Seven years into the expedition to Earth, Draska calls a meeting of the researchers on Earth. She informs them that Jigo Kadas lives. He is a portisk. He says the gods returned him from Mara to fulfill a holy mission. He claims this proves the GPO's need for him.
+Seven years into the expedition to Earth, Draska calls a meeting of the researchers on Earth. She informs them that Jigo Kadas lives. He is portisk. He says the gods returned him from Mara to fulfill a holy mission. He claims this proves the GPO's need for him.
 
 She adds dismissively that Jigo Kadas has been claiming such nonsense for years. He nitpicks at the GPO's perceived flaws and warns them of dangers as if he's spent any time on Earth unlike the rest of them. He pesters them to accept him as an advisor as if he knows better. He doesn't.
 

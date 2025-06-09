@@ -4,56 +4,59 @@
 
 ## Takw (Taku)
 Singular Noun: takw (courage)
-Proper Noun: takwl (a courageous person or thing)
-Plural Noun: takwn (multiple courageous persons or things)
-Infinitive Verb: takwp (to display courage)
-Past Verb: takwd
-Present Verb: takwr
+Plural Noun: takwn (multiple types of courage)
+Proper Noun: takws (a courageous person or thing)
+Plural Proper Noun: takwsn (multiple courageous persons or things)
+Infinitive Verb: takwr (to do as the courageous do)
+Past Verb: takwt
+Present Verb: takwd
 Future Verb: takwm
-Adjective: takwsk
+Adjective: takwsk (courageous)
 Adverb: takwlk (courageously)
 
-kur takw takwt takwlk
+kurl takw takwt takwlk
 The not courageous one displayed courage courageously.
 
-xa takwr
-She displays courage.
+xa takwd
+She does as the courageous do.
 
-takw takwr
+takw takwd
 The courageous one displays courage.
 
-da tawsk takwm
-You, courageous, will display courage.
+da tod gAt takws iti takwm
+You are courageous and will act courageously.
 
 ------
 ## Morti
 Singular Noun: morti (dead)
-Proper Noun: mortil (a dead person or thing)
-Plural Noun: mortin (multiple dead persons or things)
-Infinitive Verb: mortip (to represent death, to die)
-Past Verb: mortid
-Present Verb: mortir
+Plural Noun: mortin (multiple types of death)
+Proper Noun: mortis (a dead person or thing)
+Plural Proper Noun: mortisn (multiple dead persons or things)
+Infinitive Verb: mortir (to die)
+Past Verb: mortit
+Present Verb: mortid
 Future Verb: mortim
 Adjective: mortisk
 Adverb: mortilk
 
-takwl mortim
+takws mortim
 The courageous one will die.
 
 takw doc kantisk mortim
 The very energetic courage will die.
 
-ca takwr kur mortilk
-It displays un-deadly courage.
+ca takwr mortilk tAt tarl xin
+It displays deadly courage at all times.
 
 ---
 ## Paja
 Singular Noun: paja (judgement)
-Proper Noun: pajal (a person or thing displaying judgement)
-Plural Noun: pajan (multiple persons or things representing judgement)
-Infinitive Verb: pajap (to display judgement, to judge)
-Past Verb: pajad
-Present Verb: pajar
+Plural Noun: pajan (multiple judgements)
+Proper Noun: pajas (judger)
+Plural Proper Noun: pajasn (multiple judgers)
+Infinitive Verb: pajar (to judge)
+Past Verb: pajat
+Present Verb: pajad
 Future Verb: pajam
 Adjective: pajask (judgmental)
 Adverb: pajalk (judgmentally)
@@ -61,8 +64,8 @@ Adverb: pajalk (judgmentally)
 da kox doc takwsk iti mal pajask xok mortim
 You, very courageous and slightly judgmental, will die.
 
-mortin pajar
-Dead things judge.
+mortin pajar tAt xi
+Dead things judge at present.
 
 pajan pajam pajalk
 The judgmental will judge judgmentally.
@@ -70,53 +73,96 @@ The judgmental will judge judgmentally.
 ---
 ## Kwy (Kooih)
 Singular Noun: kwy (bird)
-Proper Noun: kwyl (a person or thing representing a bird)
-Plural Noun: kwyn (multiple persons or things representing a bird)
-Infinitive Verb: kwyp (to represent a bird)
-Past Verb: kwyd
-Present Verb: kwyr
+Plural Noun: kwyn (multiple birds)
+Proper Noun: kwys (a person or thing representing a bird)
+Plural Noun: kwysn (multiple persons or things representing a bird)
+Infinitive Verb: kwyr (to do as birds do)
+Past Verb: kwyt
+Present Verb: kwyd
 Future Verb: kwym
 Adjective: kwysk
 Adverb: kwylk
 
-kwyns paja kadam
+kwynul paja kadam
 The birds' judgment will kill.
 
 ---
 ## To
-Singular Noun: to (the present)
-Proper Noun: tos (a person or thing representing the present)
-Plural Noun: ton (multiple persons or things representing the present)
-Infinitive Verb: top (to represent the present)
-Past Verb: tod
-Present Verb: tor
+Singular Noun: to (be, exist)
+Plural Noun: ton (multiple states of existence)
+Proper Noun: tos (a person or thing that is)
+Plural Proper Noun: tosn (multiple persons or things that are)
+Infinitive Verb: tor (to be)
+Past Verb: tot
+Present Verb: tod
 Future Verb: tom
-Adjective: tosk
-Adverb: tolk
+Adjective: tosk (existent)
+Adverb: tolk (representatively)
 
-ca tor 
-It represents the present.
+## Xi
+Singular Noun: xi (time, now)
+Plural Noun: xin (multiple times)
+Proper Noun: xis (timer)
+Plural Proper Noun: xisn (multiple timers)
+Infinitive Verb: xir (to measure time)
+Past Verb: xit
+Present Verb: xid
+Future Verb: xim
+Adjective: xisk (modern)
+Adverb: xilk (timely, fittingly)
+
+xis xim dAt xi tAt kul xi
+The timer will time time later.
+
+xis xim dAt pajas tAt swk kox takws mortid bAt kada xok
+The timer will time the judge before the courageous one dies by murder.
+
+tarl xin mortim
+All times die.
+
+ca tor tAt xi
+It is now.
 
 ca kwyr tarl tolk
-It is a bird always.
+It does as birds do completely.
 
-ca kwyr tolk
-It is a bird presently
+ca kwyr tAt xi
+It is a bird now.
 
-ca tor doc tolk
-It represents the present mostly.
+zanl kwys tor malt tolk
+Their bird exists slightly representatively.
 
-kur xa mal takwm doc tolk
-The not-she will slightly represent courage mostly.
+kurl xa takwm doc tolk tAt tarl xin malt pimwsk
+The not-she will act mostly courageous sometimes.
 
-doc zarkis mortir
-The very dirty one dies.
+kan tor gAt kurl takwsn.
+The men aren't courageous people.
+
+za pajar kurl tolk
+He judges not at all.
+
+xan tor gAt kurl takws
+The women aren't a courageous person.
+
+chan tor gAt kurl takwn
+They aren't any kind of courage.
+
+doc zarkis mortir xilk
+The very dirty one dies fittingly.
 
 morti jadwm
-The dead will become water.
+The dead will do as water does.
 
-zarki jadwm kur tolk
-Dirt will never represent water.
+zarki jadwm tAt xin kusk
+Dirt will do as water does never.
 
-da kur jadwr
-You don't represent water.
+da tor malt tolk gAt kur jadw tAt xi
+You partially aren't water now.
+
+za fangesk fanger tAt fange lAt fange vAt fange vuln
+Who does what when where why?
+
+fange fangem vuln
+Who or what will do what?
+
+xa

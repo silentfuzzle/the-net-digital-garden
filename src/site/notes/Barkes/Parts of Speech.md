@@ -2,18 +2,18 @@
 {"dg-publish":true,"permalink":"/barkes/parts-of-speech/"}
 ---
 
-## Nouns
+# Nouns
 **Singular**
 Words beginning with a consonant and ending with a vowel.
 
 **Proper**
 Singular nouns ending in a consonant refer to a specific instance of the concept the noun represents. For example, pital, pitak, pitab, pitav, pitac, etc. can all be used to refer to a specific instance of a person or thing representing pita (flower). Names for baltariks, pets, landmarks, etc. frequently use this convention.
 
-Singular nouns ending in l are the generic proper form of the noun. For example, pita means "the concept of a flower" and pital means "a flower-like person or thing."
+Singular nouns ending in s are the generic proper form of the noun. For example, pita means "the concept of a flower" and pitas means "a flower-like person or thing."
 
 **Plural**
-Singular nouns ending with an n.
-## Pronouns
+Singular or proper nouns ending with an n.
+# Pronouns
 **Singular**
 
 | Barkes | English | Meaning             |
@@ -28,68 +28,101 @@ Singular nouns ending with an n.
 **Plural**
 Singular pronouns ending with an n.
 
-## Possessive
-A singular or plural noun or pronoun ending in s.
+# Possessive
+A singular noun or pronoun ending in l, or a plural or proper noun ending in ul.
 
-## Verbs
+# Verbs
 **Infinitive**
-A singular noun ending in p.
+A singular noun ending in r.
 
 **Past**
 A singular noun ending in t.
 
 **Present**
-A singular noun ending in r.
+A singular noun ending in d.
 
 **Future**
 A singular noun ending in m.
 
-## Descriptors 
+# Descriptors 
 Descriptors appear after the word they describe.
 
-**Adjectives**
+**Implicit Adjectives**
 Singular nouns ending with a sk.
+
+These are characteristics the noun inherently possesses (e.g. judgmental).
+
+**Given Adjectives**
+Singular nouns ending with a tusk.
+
+These are characteristics the noun received through an action (e.g. judged).
 
 **Adverbs**
 Singular nouns ending with an lk.
 
-## Enhancers
-Enhancers appear before the word they enhance.
+# Enhancers
+Enhancers appear before the noun, pronoun, or descriptor they enhance.
 
 | Barkes | English Spelling | Meaning         |
 | ------ | ---------------- | --------------- |
-| tarl   |                  | all/completely  |
-| doc    |                  | most/mostly     |
-| mal    |                  | some/slightly   |
-| kur    |                  | none/not at all |
+| doc    | doch             | more            |
+| malt   |                  | less            |
+| eze    |                  | equal/actual    |
+| exe    | eshe             | like/similar    |
 
-## Booleans
-and - iti
-or - ili
+# Booleans
 
-## Punctuation
-( - kox (kosh)
-) - xok (shok)
-. - vuk
+| Barkes | English Spelling | Meaning |
+| ------ | ---------------- | ------- |
+| iti    |                  | and     |
+| ili    |                  | or      |
+| ixo    | isho             | but     |
+| kurl   |                  | not     |
 
-## Connectors
+# Punctuation
+
+| Barkes | English Spelling | Meaning |
+| ------ | ---------------- | ------- |
+| kox    | kosh             | (       |
+| xok    | shok             | )       |
+| vuk    |                  | .       |
+| vukt   |                  | !       |
+| vuln   |                  | ?       |
+
+# Objects
+
+**Identifiers**
+Identifiers identify the role another noun plays in the subject's action in a sentence.
+
+| Barkes | English Spelling | Meaning                     |
+| ------ | ---------------- | --------------------------- |
+| tAt    | tat              | at (time)                   |
+| sAt    | sat              | over (timespan)             |
+| gAt    | gat              | as (property)               |
+| dAt    | dat              | upon (direct object)        |
+| pAt    | pat              | to (indirect object)        |
+| lAt    | lat              | in (location)               |
+| bAt    | bat              | by (means)                  |
+| hAt    | hat              | with (additions to subject) |
+| vAt    | vat              | for (purpose)               |
+
+**Modifiers**
+Modifiers modify the identifier's relationship to the object.
+
 | Barkes | English Spelling | Meaning     |
 | ------ | ---------------- | ----------- |
 | swk    | sook             | before      |
 | kul    |                  | after       |
+| tarl   |                  | all         |
 |        |                  | between     |
-|        |                  | in          |
 |        |                  | out         |
 |        |                  | inside      |
 |        |                  | outside     |
-|        |                  | with        |
 |        |                  | within      |
 |        |                  | without     |
 |        |                  | beyond      |
 |        |                  | to          |
 |        |                  | from        |
-|        |                  | for         |
-|        |                  | by          |
 |        |                  | through     |
 |        |                  | throughout  |
 |        |                  | on          |
@@ -98,7 +131,21 @@ or - ili
 |        |                  | beneath     |
 |        |                  | behind      |
 |        |                  | in front of |
+|        |                  | next to     |
+|        |                  | by          |
 
+# Numbers
 
-
-
+| Barkes | English Spelling | Meaning |
+| ------ | ---------------- | ------- |
+| ku     |                  | 0       |
+| pa     |                  | 1       |
+| re     |                  | 2       |
+| ci     | chi              | 3       |
+| vo     |                  | 4       |
+| mw     | mu               | 5       |
+| qa     | tha              | 6       |
+| ze     |                  | 7       |
+| bi     |                  | 8       |
+| so     |                  | 9       |
+| pi     |                  | .       |

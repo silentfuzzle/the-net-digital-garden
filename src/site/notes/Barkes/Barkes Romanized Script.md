@@ -5,7 +5,7 @@
 The barkes alphabet has 27 characters, including 8 vowels, which have been Romanized for English texts as follows.
 
 a - a as in all
-A - a as in can
+A - a as in cat
 b - b as in ball
 c - ch as in chair
 d - d as in dog
