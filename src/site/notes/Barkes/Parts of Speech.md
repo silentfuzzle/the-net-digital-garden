@@ -63,13 +63,28 @@ Singular nouns ending with an lk.
 # Enhancers
 Enhancers appear before the noun, pronoun, or descriptor they enhance.
 
-| Barkes | English Spelling | Meaning         |
-| ------ | ---------------- | --------------- |
-| doc    | doch             | more            |
-| malt   |                  | less            |
-| eze    |                  | equal/actual    |
-| exe    | eshe             | like/similar    |
+| Barkes | English Spelling | Meaning      |
+| ------ | ---------------- | ------------ |
+| tarl   |                  | all          |
+| doc    | doch             | more         |
+| malt   |                  | less         |
+| zuz    |                  | equal/actual |
+| xes    | shehs            | like/similar |
+Enhancers can be prepended with numbers to indicate part of a whole, part of all, an exact number, or an estimate.
 
+## Examples:
+
+xan tor tarl takwsn vuk
+They are all courageous.
+
+pimwxes xan tor kwysn pimwdoc takwsk vuk
+About half of them are mostly courageous birds.
+
+xan tor rezuz takwsn vuk
+They are two courageous people.
+
+piremwmalt takwsn pajar vuk
+Less than a quarter of courageous people judge.
 # Booleans
 
 | Barkes | English Spelling | Meaning |
@@ -88,7 +103,20 @@ Enhancers appear before the noun, pronoun, or descriptor they enhance.
 | vuk    |                  | .       |
 | vukt   |                  | !       |
 | vuln   |                  | ?       |
+kox and xok are optional punctuation that can be used to group any part of a sentence for clarity.
 
+Fange, the word for unknown, replaces one or more words in a sentence ending in vuln to ask who, what, where, when, and why questions.
+
+## Examples
+
+za fangesk fanger tAt fange lAt fange vAt fange vuln
+Who does what when where why?
+
+fange fangem vuln
+Who or what will do what?
+
+ca fangesk fangem vuk
+Something will do something.
 # Objects
 
 **Identifiers**
@@ -113,7 +141,6 @@ Modifiers modify the identifier's relationship to the object.
 | ------ | ---------------- | ----------- |
 | swk    | sook             | before      |
 | kul    |                  | after       |
-| tarl   |                  | all         |
 |        |                  | between     |
 |        |                  | out         |
 |        |                  | inside      |
@@ -149,3 +176,4 @@ Modifiers modify the identifier's relationship to the object.
 | bi     |                  | 8       |
 | so     |                  | 9       |
 | pi     |                  | .       |
+Numbers are merely appended to create larger numbers (e.g. papare is 112, bisoqaze is 8,967).

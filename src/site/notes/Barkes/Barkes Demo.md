@@ -158,11 +158,3 @@ Dirt will do as water does never.
 
 da tor malt tolk gAt kur jadw tAt xi
 You partially aren't water now.
-
-za fangesk fanger tAt fange lAt fange vAt fange vuln
-Who does what when where why?
-
-fange fangem vuln
-Who or what will do what?
-
-xa

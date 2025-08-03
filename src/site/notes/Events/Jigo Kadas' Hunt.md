@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/events/jigo-kadas-hunt/"}
 ---
 
-Jigo Kadas notices the change in activity within and around the GPO Headquarters during the year of Logan's recovery. The GPO's contributions to the public libraries, usually dozens of documents, videos, and audio clips per day, trickles to a handful per day. In observing GPO Headquarters, he notices Hako and the other researchers he thought were on Earth coming and going from the building. GPO members have looked miserable about their jobs for years, but these ones look pale faced with shock, horror, or terror. Kwil, when Jigo finally catches a glimpse of him, is in a worse state that anyone. Hako can't even coax him to leave the building it seems. The possibility of Jigo confronting him is the reason. He knows Jigo is out there.
+Jigo Kadas notices the change in activity within and around the GPO Headquarters during the year of Logan's recovery. The GPO's contributions to the public libraries, usually dozens of documents, videos, and audio clips per day, trickles to a handful per day. In observing GPO Headquarters, he notices Hako and the other researchers he thought were on Earth coming and going from the building. GPO members have looked miserable about their jobs for years, but these ones are pale-faced. Kwil, when Jigo finally catches a glimpse of him, is in a worse state that anyone. Hako can't even coax him to leave the building. The possibility of Jigo confronting him is the reason. He knows Jigo is out there.
 
 Jigo often pesters the GPO members coming and going from the building. No one talks to him and everyone treats him as a nuisance. The researchers are no exception, not even Hako. Not that Hako has ever particularly liked Jigo, but she has been willing to speak with him about Kwil. "How is Kwil?" That's all Jigo really wants to know, and she won't even tell him that.
 
@@ -26,7 +26,7 @@ Jigo volunteers at the pajar court. As has happened on several occasions in the 
 
 "Then, just tell me what happened to Kwil and Hako. That's all I want."
 
-Jigo continues that he saw them at GPO Headquarters, but they refused to speak with him or avoided him. He's worried about Kwil. The fanva knows Jigo's worry for Kwil well. Much of it was unfounded from his perspective, but knowing the trouble the GPO is in now, the fanva knows he has a right to worry now. He decides to give Jigo a chance to help. If the gods are angry with them already, they don't have much other choice.
+Jigo continues that he saw them at GPO Headquarters, but they refused to speak with him or avoided him. He's worried about Kwil. The fanva knows Jigo's worry for Kwil well. Much of it was unfounded from his perspective, but knowing the trouble the GPO is in now, the fanva knows he has a right to worry. He decides to give Jigo a chance to help. If the gods are angry with them already, they don't have much other choice.
 
 "Kwil returned to Earth two months ago," the fanva admits. "Hako didn't go with him."
 

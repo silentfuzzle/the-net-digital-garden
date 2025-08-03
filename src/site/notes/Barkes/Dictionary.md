@@ -4,22 +4,22 @@
 
 | Barkes Noun | English Spelling | Meaning                                                                                                              |
 | ----------- | ---------------- | -------------------------------------------------------------------------------------------------------------------- |
-| awnde       |                  | want (n), wanter (pn), to want (v), wantful (adj), wanted (ppadj), wantfully (av)                                    |
-| awntka      |                  | need (n), needer (pn), to need (v), needful (adj), needed (ppadj), needfully (av)                                    |
+| awnde       | aoonde           | want (n), wanter (pn), to want (v), wanting (adj), wanted (ppadj), wantingly (av)                                    |
+| awnka       | aoonka           | need (n), needer (pn), to need (v), needy / needing (adj), needed (ppadj), needingly (av)                            |
 | bakei       |                  |                                                                                                                      |
 | baltari     | baltarik         | a baltari being (n), baltarik is its most popular proper form (pn)                                                   |
-| barke       |                  | the baltari artificial language (n)                                                                                  |
+| barke       |                  | the baltari artificial language (n), barkes is the basic dialect (pn)                                                |
 | draska      |                  |                                                                                                                      |
 | fange       |                  | unknown (n)                                                                                                          |
-| fanva       |                  | translation (n), translator (pn), to translate (v), translatable (adj), translated (ppadj), understandably (av)      |
+| fanva       |                  | translation (n), translator (pn), to translate (v), translating (adj), translated (ppadj), understandably (av)       |
 | fanvani     |                  | god-like translation (n), the baltari serving as speaker of the gods (pn)                                            |
 | farko       |                  |                                                                                                                      |
 | hako        |                  |                                                                                                                      |
-| jadw        | jadu             | water (n), waterer (pn), to water (v), watery (adj), watered (ppadj)                                                 |
+| jadw        | jadu             | water (n), waterer (pn), to water (v), watery / watering (adj), watered (ppadj)                                      |
 | jadwni      | jaduni           | water god (n)                                                                                                        |
-| jigo        |                  |                                                                                                                      |
-| kada        |                  | kill (n), killer (pn), to kill (v), killable (adj), killed (ppadj)                                                   |
-| kanti       |                  | energy (n), energizer (pn), to energize (v), energetic (adj), energized (ppadj), energetically (av)                  |
+| jigo        |                  | rage (n), rager (pn), to rage (v), raging (adj), enraged (ppadj), ragingly (av)                                      |
+| kada        |                  | kill (n), killer (pn), to kill (v), killing (adj), killed (ppadj)                                                    |
+| kanti       |                  | energy (n), energizer (pn), to energize (v), energetic / energizing (adj), energized (ppadj), energetically (av)     |
 | kantini     |                  | god-like energy (n)                                                                                                  |
 | kasta       |                  | transportation (n), transporter (pn), to transport (v), portable (adj), transported (ppadj), portably (av)           |
 | kastani     |                  | god-like transportation (n), baltari capable of forest travel (pn)                                                   |
