@@ -15,6 +15,10 @@ Published via [Obsidian Digital Garden](https://dg-docs.ole.dev/)
 
 For a full history of edits, see The Net's BitBucket repository [here](https://bitbucket.org/silentfuzzle/thenet/src/main/).
 
+### 08/09/2025
+* Edited [[Timelines/Kwil Farkos' Sins\|Kwil Farkos' Sins]]
+* Edited [[Events/Jigo Kadas Lives\|Jigo Kadas Lives]]
+
 ### 08/03/2025
 * Edited [[Timelines/Kwil Farkos' Sins\|Kwil Farkos' Sins]]
 * Edited [[Barkes/Parts of Speech\|Parts of Speech]]
@@ -59,9 +63,6 @@ For a full history of edits, see The Net's BitBucket repository [here](https://b
 
 ### 04/11/2025
 * Edited to make Obsidian Digital Garden happy.
-
-### 03/30/2025
-* Published initial pages and edited to make BitBucket happy.
 
 ## Coming Soon
 Technical
