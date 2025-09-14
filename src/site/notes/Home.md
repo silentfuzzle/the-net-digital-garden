@@ -15,6 +15,10 @@ Published via [Obsidian Digital Garden](https://dg-docs.ole.dev/)
 
 For a full history of edits, see The Net's BitBucket repository [here](https://bitbucket.org/silentfuzzle/thenet/src/main/).
 
+### 09/14/2025
+* Edited [[Timelines/Kwil Farkos' Sins\|Kwil Farkos' Sins]]
+* Edited [[Events/Kwil Farkos' Sentence\|Kwil Farkos' Sentence]]
+* Wrote [[Concepts/Pajanil Court\|Pajanil Court]]
 ### 08/09/2025
 * Edited [[Timelines/Kwil Farkos' Sins\|Kwil Farkos' Sins]]
 * Edited [[Events/Jigo Kadas Lives\|Jigo Kadas Lives]]
