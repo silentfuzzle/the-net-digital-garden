@@ -19,6 +19,7 @@ For a full history of edits, see The Net's BitBucket repository [here](https://b
 * Edited [[Timelines/Kwil Farkos' Sins\|Kwil Farkos' Sins]]
 * Edited [[Events/Kwil Farkos' Sentence\|Kwil Farkos' Sentence]]
 * Wrote [[Concepts/Pajanil Court\|Pajanil Court]]
+
 ### 08/09/2025
 * Edited [[Timelines/Kwil Farkos' Sins\|Kwil Farkos' Sins]]
 * Edited [[Events/Jigo Kadas Lives\|Jigo Kadas Lives]]
@@ -33,20 +34,24 @@ For a full history of edits, see The Net's BitBucket repository [here](https://b
 * Edited [[Barkes/Barkes Demo\|Barkes Demo]]
 * Edited [[Barkes/Dictionary\|Dictionary]]
 * Edited [[Barkes/Parts of Speech\|Parts of Speech]]
+
 ### 05/18/2025
 * Edited [[Barkes/Baltarik Title Construction\|Baltarik Title Construction]]
 * Edited [[Barkes/Barkes Romanized Script\|Barkes Romanized Script]]
 * Edited [[Barkes/Barkes Demo\|Barkes Demo]]
 * Edited [[Barkes/Parts of Speech\|Parts of Speech]]
+
 ### 05/17/2025
 * Wrote [[Barkes/Baltarik Title Construction\|Baltarik Title Construction]]
 * Wrote [[Barkes/Barkes Romanized Script\|Barkes Romanized Script]]
 * Wrote [[Barkes/Barkes Demo\|Barkes Demo]]
 * Wrote [[Barkes/Parts of Speech\|Parts of Speech]]
 * Edited [[Concepts/Need Sanctuaries\|Need Sanctuaries]]
+
 ### 05/05/2025
 * Wrote [[Timelines/Chronology of Events\|Chronology of Events]]
 * Renamed and edited [[Timelines/Kwil Farkos' Sins\|Kwil Farkos' Sins]]
+
 ### 04/27/2025
 * Wrote [[Concepts/Court Attendants\|Court Attendants]]
 * Wrote [[Concepts/Time Measurements\|Time Measurements]]
@@ -65,9 +70,6 @@ For a full history of edits, see The Net's BitBucket repository [here](https://b
 * Wrote [[Events/Jigo Kadas Lives\|Jigo Kadas Lives]].
 * Wrote the Home page.
 
-### 04/11/2025
-* Edited to make Obsidian Digital Garden happy.
-
 ## Coming Soon
 Technical
 
@@ -77,10 +79,11 @@ Technical
 Writing
 
 * Continue expanding [[Timelines/Kwil Farkos' Sins\|Kwil Farkos' Sins]].
+* Continue expanding barkes pages.
+* Update barkes terms throughout.
 * Kadas Laser Rifles
 * Add links to Events pages.
 * Transfer notes from EverNote.
 * Transfer notes from Scrivener.
 * Transfer chapters from the Kasta e-book.
 * Fill in Draska Bakein.
-* Write barkes basics.
