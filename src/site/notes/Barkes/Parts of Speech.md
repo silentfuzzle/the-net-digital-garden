@@ -74,16 +74,16 @@ Enhancers can be prepended with numbers to indicate part of a whole, part of all
 
 ## Examples:
 
-xan tor tarl takwsn vuk
+xan tod tarl takwsn vuk
 They are all courageous.
 
-pimwxes xan tor kwysn pimwdoc takwsk vuk
+pimwxes xan tod kwysn pimwdoc takwsk vuk
 About half of them are mostly courageous birds.
 
-xan tor rezuz takwsn vuk
+xan tod rezuz takwsn vuk
 They are two courageous people.
 
-piremwmalt takwsn pajar vuk
+piremwmalt takwsn pajad vuk
 Less than a quarter of courageous people judge.
 # Booleans
 
@@ -109,7 +109,7 @@ Fange, the word for unknown, replaces one or more words in a sentence ending in 
 
 ## Examples
 
-za fangesk fanger tAt fange lAt fange vAt fange vuln
+za fangesk fanged tAt fange lAt fange vAt fange vuln
 Who does what when where why?
 
 fange fangem vuln

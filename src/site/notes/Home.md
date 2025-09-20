@@ -5,7 +5,7 @@
 # [The Net](https://the-net-digital-garden.vercel.app/)
 A non-linear saga outline.
 
-[[Timelines/Kwil Farkos' Sins\|Start Here]]
+[[Timelines/Kwil Farkos' Experiment\|Start Here]]
 
 Written by [Emily Palmieri](https://opengatesmedia.com/)
 Written with [Obsidian](https://obsidian.md/)
@@ -15,17 +15,21 @@ Published via [Obsidian Digital Garden](https://dg-docs.ole.dev/)
 
 For a full history of edits, see The Net's BitBucket repository [here](https://bitbucket.org/silentfuzzle/thenet/src/main/).
 
+### 09/20/2025
+* Edited [[Timelines/Kwil Farkos' Experiment\|Kwil Farkos' Experiment]]
+* Edited [[Timelines/Chronology of Events\|Chronology of Events]]
+* Edited [[Events/Kwil Farkos' Sentence\|Kwil Farkos' Sentence]]
 ### 09/14/2025
-* Edited [[Timelines/Kwil Farkos' Sins\|Kwil Farkos' Sins]]
+* Edited [[Timelines/Kwil Farkos' Experiment\|Kwil Farkos' Experiment]]
 * Edited [[Events/Kwil Farkos' Sentence\|Kwil Farkos' Sentence]]
 * Wrote [[Concepts/Pajanil Court\|Pajanil Court]]
 
 ### 08/09/2025
-* Edited [[Timelines/Kwil Farkos' Sins\|Kwil Farkos' Sins]]
+* Edited [[Timelines/Kwil Farkos' Experiment\|Kwil Farkos' Experiment]]
 * Edited [[Events/Jigo Kadas Lives\|Jigo Kadas Lives]]
 
 ### 08/03/2025
-* Edited [[Timelines/Kwil Farkos' Sins\|Kwil Farkos' Sins]]
+* Edited [[Timelines/Kwil Farkos' Experiment\|Kwil Farkos' Experiment]]
 * Edited [[Barkes/Parts of Speech\|Parts of Speech]]
 * Edited [[Barkes/Dictionary\|Dictionary]]
 
@@ -50,7 +54,7 @@ For a full history of edits, see The Net's BitBucket repository [here](https://b
 
 ### 05/05/2025
 * Wrote [[Timelines/Chronology of Events\|Chronology of Events]]
-* Renamed and edited [[Timelines/Kwil Farkos' Sins\|Kwil Farkos' Sins]]
+* Renamed and edited [[Timelines/Kwil Farkos' Experiment\|Kwil Farkos' Experiment]]
 
 ### 04/27/2025
 * Wrote [[Concepts/Court Attendants\|Court Attendants]]
@@ -59,16 +63,10 @@ For a full history of edits, see The Net's BitBucket repository [here](https://b
 * Transferred posts from The Net WordPress.
 
 ### 04/20/2025
-* Split [[Timelines/Kwil Farkos' Sins\|Kwil Farkos' Sins]] into [[Events/Hako Pital in Hiding\|Hako Pital in Hiding]]
+* Split [[Timelines/Kwil Farkos' Experiment\|Kwil Farkos' Experiment]] into [[Events/Hako Pital in Hiding\|Hako Pital in Hiding]]
 * Wrote [[Concepts/Exiles\|Exiles]]
 * Wrote [[Concepts/The Great Peace Organization\|The Great Peace Organization]]
 * Moved repository from Wiki to main repository
-
-### 04/13/2025
-* Split, edited, and expanded [[Timelines/Kwil Farkos' Sins\|Kwil Farkos' Sins]].
-* Organized pages into folders.
-* Wrote [[Events/Jigo Kadas Lives\|Jigo Kadas Lives]].
-* Wrote the Home page.
 
 ## Coming Soon
 Technical
@@ -78,7 +76,7 @@ Technical
 
 Writing
 
-* Continue expanding [[Timelines/Kwil Farkos' Sins\|Kwil Farkos' Sins]].
+* Continue expanding [[Timelines/Kwil Farkos' Experiment\|Kwil Farkos' Experiment]].
 * Continue expanding barkes pages.
 * Update barkes terms throughout.
 * Kadas Laser Rifles

@@ -8,4 +8,4 @@ Kadas is a frigid desert planet with twice Earth's gravity. A day lasts about 32
 
 Zar and Ji are cloudy, Earth-sized binary planets. A day lasts about 6 Kreid days, while a year spans 65 Ji days (~390 Kreid days). Baltarik inhabitants function in cycles of 24 Kreid hours.
 
-Marti is a tropical, Earth-like planet with 0.8 times Earth's gravity. A day lasts approximately 18 Kreid hours, with a year consisting of 360 Marti days (~270 Kreid days).
+Marti is a tropical planet with 0.8 times Earth's gravity. A day lasts approximately 18 Kreid hours, with a year consisting of 360 Marti days (~270 Kreid days).
