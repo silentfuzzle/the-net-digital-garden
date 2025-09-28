@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/concepts/pajanil-court/"}
 ---
 
+# Views
+ The Pajanil Court doesn't accept allosexuality as evidence of guilt. Anyone can be biased and irrational for any reason, those with a bias against allosexuals being an example.
+# Court Sessions
 The Pajanil Court offers defendants and requestors three types of sessions in which to present their cases:
 
 ## Public Sessions

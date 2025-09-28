@@ -16,7 +16,7 @@
 |      | 241    | Monika Klerik is deceased.                                                                                   |
 | 1962 | 348    | The Great Peace Organization is founded.                                                                     |
 | 1999 | 385    | Jigo Kadas becomes a portisk.                                                                                |
-| 2009 | 395    | The GPO executes [[Timelines/Kwil Farkos' Experiment\|Kwil Farkos' experiment]].                                             |
+| 2009 | 395    | The GPO executes [[Timelines/Kwil Farkos' Experiment\|Kwil Farkos' experiment]].                                       |
 | 2012 | 398    | Onsite Research ends. The GPO is disbanded. [[Figures/Kwil Farkos\|Kwil Farkos]] contracts the first case of tatpai syndrome.     |
 | 2072 | 458    | The Demon Revolution AKA World War III begins.                                                               |
 | 2124 | 510    | The Demon Revolution AKA World War III ends.                                                                 |

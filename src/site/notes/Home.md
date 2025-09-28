@@ -15,6 +15,11 @@ Published via [Obsidian Digital Garden](https://dg-docs.ole.dev/)
 
 For a full history of edits, see The Net's BitBucket repository [here](https://bitbucket.org/silentfuzzle/thenet/src/main/).
 
+### 09/28/2025
+* Edited [[Concepts/The Great Peace Organization\|The Great Peace Organization]]
+* Edited [[Concepts/Need Sanctuaries\|Need Sanctuaries]]
+* Wrote [[Concepts/Contraceptives\|Contraceptives]]
+
 ### 09/20/2025
 * Edited [[Timelines/Kwil Farkos' Experiment\|Kwil Farkos' Experiment]]
 * Edited [[Timelines/Chronology of Events\|Chronology of Events]]
@@ -61,12 +66,6 @@ For a full history of edits, see The Net's BitBucket repository [here](https://b
 * Wrote [[Concepts/Time Measurements\|Time Measurements]]
 * Edited [[Concepts/Exiles\|Exiles]]
 * Transferred posts from The Net WordPress.
-
-### 04/20/2025
-* Split [[Timelines/Kwil Farkos' Experiment\|Kwil Farkos' Experiment]] into [[Events/Hako Pital in Hiding\|Hako Pital in Hiding]]
-* Wrote [[Concepts/Exiles\|Exiles]]
-* Wrote [[Concepts/The Great Peace Organization\|The Great Peace Organization]]
-* Moved repository from Wiki to main repository
 
 ## Coming Soon
 Technical
