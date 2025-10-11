@@ -15,6 +15,10 @@ Published via [Obsidian Digital Garden](https://dg-docs.ole.dev/)
 
 For a full history of edits, see The Net's BitBucket repository [here](https://bitbucket.org/silentfuzzle/thenet/src/main/).
 
+### 10/11/2025
+* Modified and updated barkes throughout
+* Obfuscated Twelve's Design spoilers
+
 ### 09/28/2025
 * Edited [[Concepts/The Great Peace Organization\|The Great Peace Organization]]
 * Edited [[Concepts/Need Sanctuaries\|Need Sanctuaries]]
@@ -27,7 +31,7 @@ For a full history of edits, see The Net's BitBucket repository [here](https://b
 ### 09/14/2025
 * Edited [[Timelines/Kwil Farkos' Experiment\|Kwil Farkos' Experiment]]
 * Edited [[Events/Kwil Farkos' Sentence\|Kwil Farkos' Sentence]]
-* Wrote [[Concepts/Pajanil Court\|Pajanil Court]]
+* Wrote [[Concepts/Pajasul Court\|Pajasul Court]]
 
 ### 08/09/2025
 * Edited [[Timelines/Kwil Farkos' Experiment\|Kwil Farkos' Experiment]]
@@ -61,12 +65,6 @@ For a full history of edits, see The Net's BitBucket repository [here](https://b
 * Wrote [[Timelines/Chronology of Events\|Chronology of Events]]
 * Renamed and edited [[Timelines/Kwil Farkos' Experiment\|Kwil Farkos' Experiment]]
 
-### 04/27/2025
-* Wrote [[Concepts/Court Attendants\|Court Attendants]]
-* Wrote [[Concepts/Time Measurements\|Time Measurements]]
-* Edited [[Concepts/Exiles\|Exiles]]
-* Transferred posts from The Net WordPress.
-
 ## Coming Soon
 Technical
 
@@ -77,7 +75,6 @@ Writing
 
 * Continue expanding [[Timelines/Kwil Farkos' Experiment\|Kwil Farkos' Experiment]].
 * Continue expanding barkes pages.
-* Update barkes terms throughout.
 * Kadas Laser Rifles
 * Add links to Events pages.
 * Transfer notes from EverNote.

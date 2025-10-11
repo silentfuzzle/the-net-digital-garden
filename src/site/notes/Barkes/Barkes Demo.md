@@ -158,3 +158,32 @@ Dirt will do as water does never.
 
 da tor malt tolk gAt kur jadw tAt xi
 You partially aren't water now.
+
+---
+## kwxna (choice)
+Singular Noun: kwxna (choice)
+Plural Noun: kwxnan (multiple types of choices)
+Proper Noun: kwxnas (a choice)
+Plural Proper Noun: kwxnan (multiple choices)
+Infinitive Verb: kwxnar (to choose)
+Implicit Adjective: kwxnask (choosing, discerning)
+Adverb: kwxnalk (discerningly)
+
+nil pajas grakwxnask kwxnad vuk
+God's chosen judge chooses.
+
+nil grakwxnas takwt vuk
+God's chosen one does as the courageous do.
+
+---
+## prenw (person)
+Singular Noun: prenw (a people)
+Plural Noun: prenwn (multiple types of people)
+Proper Noun: prenws (a person)
+Plural Proper Noun: prenwn (multiple people)
+Infinitive Verb: prenwr (to do as people do)
+Implicit Adjective: prenwsk (person-like)
+Adverb: prenwlk
+
+prenwnul pajas kwxnam vuk
+The peoples' judge will choose.

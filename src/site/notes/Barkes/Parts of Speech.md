@@ -13,6 +13,29 @@ Singular nouns ending in s are the generic proper form of the noun. For example,
 
 **Plural**
 Singular or proper nouns ending with an n.
+
+**Implicit vs. Given**
+Implicit nouns refer to objects that inherently possess the concept. Given nouns refer to objects that received the concept through an action. Given nouns are prepended with "gra."
+
+For example, paja and grapaja are conjugated as follows:
+
+| Barkes    | Meaning                            |
+| --------- | ---------------------------------- |
+| paja      | a judgement                        |
+| pajan     | multiple judgements                |
+| pajas     | judger                             |
+| pajasn    | multiple judgers                   |
+| pajar     | to judge                           |
+| pajask    | judgemental                        |
+| pajalk    | judgementally                      |
+| grapaja   | a received judgement (enjudgement) |
+| grapajan  | multiple received judgements       |
+| grapajas  | judged person or thing             |
+| grapajasn | multiple judged people or things   |
+| grapajar  | to do as the judged do             |
+| grapajask | judged                             |
+| grapajalk | guiltily                           |
+
 # Pronouns
 **Singular**
 
@@ -47,15 +70,8 @@ A singular noun ending in m.
 # Descriptors 
 Descriptors appear after the word they describe.
 
-**Implicit Adjectives**
+**Adjectives**
 Singular nouns ending with a sk.
-
-These are characteristics the noun inherently possesses (e.g. judgmental).
-
-**Given Adjectives**
-Singular nouns ending with a tusk.
-
-These are characteristics the noun received through an action (e.g. judged).
 
 **Adverbs**
 Singular nouns ending with an lk.

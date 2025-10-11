@@ -18,7 +18,7 @@ Jigo asks why no one forces him to come home. Hako gives another true excuse: he
 
 Jigo accepts Hako's vague explanations and excuses. He wants to help but points out that he lost his telepathic connection to Kwil almost two decades ago. Kwil hasn't spoken to him since he left for Earth. The GPO would never let Jigo set foot on Earth either.
 
-"I think I know how to get you there," Hako says. If she's become desperate enough to ask Jigo for help, Draska may be desperate enough for a solution to let Jigo try to find one, too. If Draska is still resistant, Hako will involve the pajar. The pajar will listen to reason, and they all know the gods kept Jigo alive for a reason. Why shouldn't they think it is to resolve the GPO's problems?
+"I think I know how to get you there," Hako says. If she's become desperate enough to ask Jigo for help, Draska may be desperate enough for a solution to let Jigo try to find one, too. If Draska is still resistant, Hako will involve the pajas. The pajas will listen to reason, and they all know the gods kept Jigo alive for a reason. Why shouldn't they think it is to resolve the GPO's problems?
 
 She and Jigo will need to approach Kwil with more tact to take down his defenses and coax him to talk. Sending Jigo to Earth with the explicit purpose to investigate the GPO and interrogate Kwil will surely do the opposite. Hako proposes Jigo pursue his interest in the porjorde, the spiritual knowledgebase the gods warned them of. Among the literature Kwil has sent from Earth is information about a human by the name Seth Rose who may have direct access to the porjorde. She proposes Jigo seek him out as a ruse to discover his purpose.
 
