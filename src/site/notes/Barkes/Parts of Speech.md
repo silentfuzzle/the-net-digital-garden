@@ -52,29 +52,29 @@ For example, paja and grapaja are conjugated as follows:
 Singular pronouns ending with an n.
 
 # Possessive
-A singular noun or pronoun ending in l, or a plural or proper noun ending in ul.
+A singular noun or pronoun ending in l, or a plural or proper or plural noun ending in wl.
 
 # Verbs
 **Infinitive**
-A singular noun ending in r.
+A singular noun ending in r or a plural noun ending in ur.
 
 **Past**
-A singular noun ending in t.
+A singular noun ending in t or a plural noun ending in ut.
 
 **Present**
-A singular noun ending in d.
+A singular noun ending in d or a plural noun ending in ud.
 
 **Future**
-A singular noun ending in m.
+A singular noun ending in m or a plural noun ending in um.
 
 # Descriptors 
 Descriptors appear after the word they describe.
 
 **Adjectives**
-Singular nouns ending with a sk.
+Singular nouns ending with a sk or a plural noun ending in usk.
 
 **Adverbs**
-Singular nouns ending with an lk.
+Singular nouns ending with an lk or a plural noun ending in ulk.
 
 # Enhancers
 Enhancers appear before the noun, pronoun, or descriptor they enhance.

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/events/jigo-kadas-lives/"}
 ---
 
-Seven years into the expedition to Earth, Draska calls a meeting of the researchers on Earth. She informs them that Jigo Kadas lives. He has returned as a pruktauni. He says the gods returned him from nilmara to fulfill a holy mission. He claims this proves the GPO's need for him.
+Seven years into the expedition to Earth, Draska calls a meeting of the researchers on Earth. She informs them that Jigo Kadas lives. He has returned as a pruktau. He says the gods returned him from nilmara to fulfill a holy mission. He claims this proves the GPO's need for him.
 
 She adds dismissively that Jigo Kadas has been claiming such nonsense for years. He nitpicks at the GPO's perceived flaws and warns them of dangers as if he's spent any time on Earth unlike the rest of them. He pesters them to accept him as an advisor as if he knows better. He doesn't.
 
@@ -12,7 +12,7 @@ The researchers are shaken by the news. While they've dismissed the warmonger's 
 
 "He should have advised us from the beginning," Kwil tells her privately later. "We should have listened to him. All this time, he should have been one of us."
 
-Hako argues that he can join them now. They can fight for him. If Draska continues to disagree, they can elevate the dispute to the pajasul. Hako admits she's always been skeptical of Jigo's motives, but she can't deny he's shown nothing but kindness to Kwil or given her reason to think he'll betray the GPO's mission. She wants to give him a chance.
+Hako argues that he can join them now. They can fight for him. If Draska continues to disagree, they can elevate the dispute to the pajas. Hako admits she's always been skeptical of Jigo's motives, but she can't deny he's shown nothing but kindness to Kwil or given her reason to think he'll betray the GPO's mission. She wants to give him a chance.
 
 "It's too late," Kwil says. "Why should the gods forgive us when we rejected their will for 37 years and still we ignore it?"
 

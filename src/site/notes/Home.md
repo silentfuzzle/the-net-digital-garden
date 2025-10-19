@@ -15,6 +15,11 @@ Published via [Obsidian Digital Garden](https://dg-docs.ole.dev/)
 
 For a full history of edits, see The Net's BitBucket repository [here](https://bitbucket.org/silentfuzzle/thenet/src/main/).
 
+### 10/19/2025
+* Edited [[Events/Jigo Kadas' Hunt\|Jigo Kadas' Hunt]]
+* Edited [[Events/Hako Pital in Hiding\|Hako Pital in Hiding]]
+* Minor barkes updates and modifications
+
 ### 10/11/2025
 * Modified and updated barkes throughout
 * Obfuscated Twelve's Design spoilers
@@ -60,10 +65,6 @@ For a full history of edits, see The Net's BitBucket repository [here](https://b
 * Wrote [[Barkes/Barkes Demo\|Barkes Demo]]
 * Wrote [[Barkes/Parts of Speech\|Parts of Speech]]
 * Edited [[Concepts/Need Sanctuaries\|Need Sanctuaries]]
-
-### 05/05/2025
-* Wrote [[Timelines/Chronology of Events\|Chronology of Events]]
-* Renamed and edited [[Timelines/Kwil Farkos' Experiment\|Kwil Farkos' Experiment]]
 
 ## Coming Soon
 Technical
