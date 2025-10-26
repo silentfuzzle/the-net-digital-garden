@@ -3,7 +3,7 @@
 ---
 
 # [The Net](https://the-net-digital-garden.vercel.app/)
-A non-linear saga outline.
+A non-linear saga outline
 
 [[Timelines/Kwil Farkos' Experiment\|Start Here]]
 
@@ -15,6 +15,9 @@ Published via [Obsidian Digital Garden](https://dg-docs.ole.dev/)
 
 For a full history of edits, see The Net's BitBucket repository [here](https://bitbucket.org/silentfuzzle/thenet/src/main/).
 
+### 10/26/2025
+* Wrote [[Events/A Request to Send Jigo Kadas to Earth\|A Request to Send Jigo Kadas to Earth]]
+* Edited [[Events/Jigo Kadas Lives\|Jigo Kadas Lives]]
 ### 10/19/2025
 * Edited [[Events/Jigo Kadas' Hunt\|Jigo Kadas' Hunt]]
 * Edited [[Events/Hako Pital in Hiding\|Hako Pital in Hiding]]
@@ -32,10 +35,10 @@ For a full history of edits, see The Net's BitBucket repository [here](https://b
 ### 09/20/2025
 * Edited [[Timelines/Kwil Farkos' Experiment\|Kwil Farkos' Experiment]]
 * Edited [[Timelines/Chronology of Events\|Chronology of Events]]
-* Edited [[Events/Kwil Farkos' Sentence\|Kwil Farkos' Sentence]]
+* Edited [[Events/A Request to Exile Kwil Farkos\|A Request to Exile Kwil Farkos]]
 ### 09/14/2025
 * Edited [[Timelines/Kwil Farkos' Experiment\|Kwil Farkos' Experiment]]
-* Edited [[Events/Kwil Farkos' Sentence\|Kwil Farkos' Sentence]]
+* Edited [[Events/A Request to Exile Kwil Farkos\|A Request to Exile Kwil Farkos]]
 * Wrote [[Concepts/Pajasul Court\|Pajasul Court]]
 
 ### 08/09/2025
@@ -59,13 +62,6 @@ For a full history of edits, see The Net's BitBucket repository [here](https://b
 * Edited [[Barkes/Barkes Demo\|Barkes Demo]]
 * Edited [[Barkes/Parts of Speech\|Parts of Speech]]
 
-### 05/17/2025
-* Wrote [[Barkes/Baltarik Title Construction\|Baltarik Title Construction]]
-* Wrote [[Barkes/Barkes Romanized Script\|Barkes Romanized Script]]
-* Wrote [[Barkes/Barkes Demo\|Barkes Demo]]
-* Wrote [[Barkes/Parts of Speech\|Parts of Speech]]
-* Edited [[Concepts/Need Sanctuaries\|Need Sanctuaries]]
-
 ## Coming Soon
 Technical
 
@@ -75,6 +71,7 @@ Technical
 Writing
 
 * Continue expanding [[Timelines/Kwil Farkos' Experiment\|Kwil Farkos' Experiment]].
+* Add links to court cases from [[Concepts/Pajasul Court\|Pajasul Court]]
 * Continue expanding barkes pages.
 * Kadas Laser Rifles
 * Add links to Events pages.
