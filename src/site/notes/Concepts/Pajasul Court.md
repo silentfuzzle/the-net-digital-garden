@@ -2,10 +2,12 @@
 {"dg-publish":true,"permalink":"/concepts/pajasul-court/"}
 ---
 
+The pajas holds court in the People's Building (the Prenul Dani), the largest building on the five planets. During the day, it is primarily used for court sessions, but after hours, it may be used as a meeting place by the public. The pajas lives in the Pajasul Dani, a remote and relatively large and ornate house outside of Zanvie. Court sessions in barkes are referred to as "ca pajas tirnad," "the pajas listening."
 # Views
- The Pajasul Court doesn't accept allosexuality as evidence of guilt. Anyone can be biased and irrational for any reason, those with a bias against allosexuals being an example.
+The Pajasul Court doesn't accept allosexuality as evidence of guilt. Anyone can be biased and irrational for any reason, those with a bias against allosexuals being an example.
+
 # Court Sessions
-The Pajasul Court offers defendants and requestors three types of sessions in which to present their cases:
+The Pajasul Court offers defendants and requestors three types of sessions in which to present their cases.
 
 ## Public Sessions
 The most common format, public sessions are open to all members of the community. Observers may witness the proceedings, and in cases involving a requestor seeking aid, audience members may volunteer support after the pajas has passed judgment.

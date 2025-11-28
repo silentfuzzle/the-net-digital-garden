@@ -15,9 +15,16 @@ Published via [Obsidian Digital Garden](https://dg-docs.ole.dev/)
 
 For a full history of edits, see The Net's BitBucket repository [here](https://bitbucket.org/silentfuzzle/thenet/src/main/).
 
+### 11/28/2025
+* Wrote [[Concepts/The Net\|The Net]]
+* Wrote [[Concepts/Spiritual Entities\|Spiritual Entities]]
+* Wrote [[External Sources/Inspiration\|Inspiration]]
+* Edited various articles related to [[Events/A Request to Send Jigo Kadas to Earth\|A Request to Send Jigo Kadas to Earth]]
+
 ### 10/26/2025
 * Wrote [[Events/A Request to Send Jigo Kadas to Earth\|A Request to Send Jigo Kadas to Earth]]
 * Edited [[Events/Jigo Kadas Lives\|Jigo Kadas Lives]]
+
 ### 10/19/2025
 * Edited [[Events/Jigo Kadas' Hunt\|Jigo Kadas' Hunt]]
 * Edited [[Events/Hako Pital in Hiding\|Hako Pital in Hiding]]
@@ -54,12 +61,6 @@ For a full history of edits, see The Net's BitBucket repository [here](https://b
 * Edited [[Barkes/Baltarik Title Construction\|Baltarik Title Construction]]
 * Edited [[Barkes/Barkes Demo\|Barkes Demo]]
 * Edited [[Barkes/Dictionary\|Dictionary]]
-* Edited [[Barkes/Parts of Speech\|Parts of Speech]]
-
-### 05/18/2025
-* Edited [[Barkes/Baltarik Title Construction\|Baltarik Title Construction]]
-* Edited [[Barkes/Barkes Romanized Script\|Barkes Romanized Script]]
-* Edited [[Barkes/Barkes Demo\|Barkes Demo]]
 * Edited [[Barkes/Parts of Speech\|Parts of Speech]]
 
 ## Coming Soon
