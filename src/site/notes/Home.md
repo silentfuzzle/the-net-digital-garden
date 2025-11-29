@@ -15,6 +15,11 @@ Published via [Obsidian Digital Garden](https://dg-docs.ole.dev/)
 
 For a full history of edits, see The Net's BitBucket repository [here](https://bitbucket.org/silentfuzzle/thenet/src/main/).
 
+### 11/29/2025
+* Wrote [[Concepts/Psychic Abilities\|Psychic Abilities]]
+* Wrote [[Concepts/Spiritual Influence\|Spiritual Influence]]
+* Edited [[Concepts/Spiritual Entities\|Spiritual Entities]]
+
 ### 11/28/2025
 * Wrote [[Concepts/The Net\|The Net]]
 * Wrote [[Concepts/Spiritual Entities\|Spiritual Entities]]
@@ -56,12 +61,6 @@ For a full history of edits, see The Net's BitBucket repository [here](https://b
 * Edited [[Timelines/Kwil Farkos' Experiment\|Kwil Farkos' Experiment]]
 * Edited [[Barkes/Parts of Speech\|Parts of Speech]]
 * Edited [[Barkes/Dictionary\|Dictionary]]
-
-### 06/08/2025
-* Edited [[Barkes/Baltarik Title Construction\|Baltarik Title Construction]]
-* Edited [[Barkes/Barkes Demo\|Barkes Demo]]
-* Edited [[Barkes/Dictionary\|Dictionary]]
-* Edited [[Barkes/Parts of Speech\|Parts of Speech]]
 
 ## Coming Soon
 Technical
