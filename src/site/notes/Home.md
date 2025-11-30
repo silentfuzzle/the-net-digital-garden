@@ -15,6 +15,10 @@ Published via [Obsidian Digital Garden](https://dg-docs.ole.dev/)
 
 For a full history of edits, see The Net's BitBucket repository [here](https://bitbucket.org/silentfuzzle/thenet/src/main/).
 
+### 11/30/2025
+* Wrote [[Concepts/Types of Hauntings\|Types of Hauntings]]
+* Edited articles related to [[Concepts/Spiritual Entities\|Spiritual Entities]]
+
 ### 11/29/2025
 * Wrote [[Concepts/Psychic Abilities\|Psychic Abilities]]
 * Wrote [[Concepts/Spiritual Influence\|Spiritual Influence]]
@@ -56,11 +60,6 @@ For a full history of edits, see The Net's BitBucket repository [here](https://b
 ### 08/09/2025
 * Edited [[Timelines/Kwil Farkos' Experiment\|Kwil Farkos' Experiment]]
 * Edited [[Events/Jigo Kadas Lives\|Jigo Kadas Lives]]
-
-### 08/03/2025
-* Edited [[Timelines/Kwil Farkos' Experiment\|Kwil Farkos' Experiment]]
-* Edited [[Barkes/Parts of Speech\|Parts of Speech]]
-* Edited [[Barkes/Dictionary\|Dictionary]]
 
 ## Coming Soon
 Technical
