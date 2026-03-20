@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/concepts/the-net/"}
 ---
 
-The Net contains all knowledge in the universe from the living and dead, the human and inhuman, the physical and spiritual, the past and present. The equivalent term for The Net in barkes is rakshan, meaning "spirit records." Not all [[Concepts/Spiritual Entities\|Spiritual Entities]] can access all The Net's knowledge.
+The Net contains all knowledge in the universe from the living and dead, the human and inhuman, the physical and spiritual, the past and present. The equivalent term for The Net in barkes is raksha, meaning "spirit records." Not all [[Concepts/Spiritual Entities\|Spiritual Entities]] can access all The Net's knowledge.
 
 Incarnated spirits with certain [[Concepts/Psychic Abilities\|Psychic Abilities]] can inconsistently access limited knowledge of spirits bound to their home world(s). Bound spirits may not freely share knowledge crucial to fulfilling the life's purpose or unfinished business of the incarnated spirit or any other incarnated spirits or ghosts the subject may encounter, which usually encompasses most of the Net's knowledge.
 

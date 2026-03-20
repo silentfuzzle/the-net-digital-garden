@@ -15,6 +15,9 @@ Published via [Obsidian Digital Garden](https://dg-docs.ole.dev/)
 
 For a full history of edits, see The Net's BitBucket repository [here](https://bitbucket.org/silentfuzzle/thenet/src/main/).
 
+### 03/19/2026
+* Wrote [[Concepts/Rituals\|Rituals]]
+
 ### 11/30/2025
 * Wrote [[Concepts/Types of Hauntings\|Types of Hauntings]]
 * Edited articles related to [[Concepts/Spiritual Entities\|Spiritual Entities]]
@@ -56,10 +59,6 @@ For a full history of edits, see The Net's BitBucket repository [here](https://b
 * Edited [[Timelines/Kwil Farkos' Experiment\|Kwil Farkos' Experiment]]
 * Edited [[Events/A Request to Exile Kwil Farkos\|A Request to Exile Kwil Farkos]]
 * Wrote [[Concepts/Pajasul Court\|Pajasul Court]]
-
-### 08/09/2025
-* Edited [[Timelines/Kwil Farkos' Experiment\|Kwil Farkos' Experiment]]
-* Edited [[Events/Jigo Kadas Lives\|Jigo Kadas Lives]]
 
 ## Coming Soon
 Technical
