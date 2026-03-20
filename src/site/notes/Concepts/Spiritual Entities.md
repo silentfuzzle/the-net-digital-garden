@@ -5,7 +5,7 @@
 Corporeal spirits are entities that have or had physical forms. These include incarnated spirits, ghosts, and bound spirits. Unbound spirits include corporeal and incorporeal entities such as demons.
 
 ## Incarnated Spirits
-Incarnated spirits are bound to the physical realm by a physical body. Having direct access to the physical realm and thus greater ability to collect and exert energy, an incarnated spirit's commands and will have power over all other types of spiritual beings. Most incarnated spirits aren't consciously aware of other spiritual entities, but most also have some level of sensitivity to spiritual entities and [[Concepts/Psychic Abilities\|psychic ability]]. Upon death of the physical body, incarnated spirits may become ghosts, bound spirits, or unbound spirits.
+Incarnated spirits are bound to the physical realm by a physical body. Most incarnated spirits aren't consciously aware of other spiritual entities, but most also have some level of sensitivity to spiritual entities and [[Concepts/Psychic Abilities\|psychic ability]]. Upon death of the physical body, incarnated spirits may become ghosts, bound spirits, or unbound spirits. Having direct access to the physical realm and thus greater ability to collect and exert energy, an incarnated spirit's commands and will have power over the spiritual realm and all other spiritual beings. How much power depends on the incarnated spirit's sensitivity, [[Concepts/Rituals\|actions]], beliefs, and relationships to the spirits under their command.
 
 Because water itself is a manifestation of the water gods, all water based lifeforms are considered incarnated spirits. Some categorize incarnated spirits based on their capacity for intelligence and communication, particularly with other species. These categories are
 
@@ -29,7 +29,7 @@ A rare type of spirit, ghosts are disembodied spirits bound to the physical real
 Bound spirits are spirits free to travel only between their home world(s) and the afterlife. They are bound by their desire to oversee loved ones. Bound spirits have emotions but can't manipulate the physical realm. Once their attachments to loved ones have faded or they otherwise choose, these spirits are unbound. They may also be tempted to rebind themselves to the physical realm as ghosts.
 
 ## Unbound Spirits
-Unbound spirits are non-physical beings free to travel between worlds. They have access to all the knowledge of [[Concepts/The Net\|The Net]] and may choose to be reincarnated.
+Unbound spirits are free to travel between worlds. They have access to all the knowledge of [[Concepts/The Net\|The Net]] and may choose to be reincarnated.
 
 ## Demons
 Demons are incorporeal spirits capable of converting negative emotions to energy. Not having a physical form, demons portray themselves in whatever form advances their plans for generating energy. They may take a monstrous form designed to prey on the fears of the spirits in their presence, or they may mimic human forms or voices, children most often, to trick incarnated spirits into believing their innocence or normalcy. Demons exude a constant, unpleasant aura, however, which they can't mask from those sensitive to it. Demons have emotions and may express them or otherwise manipulate the physical realm if they have sufficient energy.

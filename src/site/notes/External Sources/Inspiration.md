@@ -11,6 +11,7 @@ Fullmetal Alchemist: Brotherhood
 ## Fiction
 _Gone Girl_ by Gillian Flynn
 *House of Leaves* by Mark Z. Danielewski
+*The Zombie Survival Guide* by Max Brooks
 *Vurt* by Jeff Noon
 
 The *Artemis Fowl* series by Eoin Colfer
@@ -38,6 +39,7 @@ The St. Francisville Experiment
 Ghost Adventures
 Ghost Hunters (TAPS)
 Paranormal State
+The Dead Files
 
 ## TV Series
 Breaking Bad

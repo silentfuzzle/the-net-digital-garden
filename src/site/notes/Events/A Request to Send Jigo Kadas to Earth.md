@@ -30,7 +30,7 @@ The fanvas supported that Jigo's concern for Kwil over the years seemed genuine.
 
 "To justify his desire for an army," Draska argued.
 
-The pajas admitted her biases against Jigo aligned with Draska's but conceded Draska's arguments relied on conjecture. There was more evidence to support that Jigo's friendship with Kwil was genuine. In sending him to Earth, she saw little reason to think he would use the opportunity for any other purpose than to help an estranged friend and fulfill the purpose the gods require of him. Even if his blood was tainted enough for the gods to reject him from Jadul Mara, that didn't mean he didn't seek their acceptance. The gift the gods bestowed him as a pruktau further suggested their trust in him.
+The pajas admitted her biases against Jigo aligned with Draska's but conceded Draska's arguments relied on conjecture. There was more evidence to support that Jigo's friendship with Kwil was genuine. In sending him to Earth, she saw little reason to think he would use the opportunity for any other purpose than to help an estranged friend and fulfill the purpose the gods required of him. Even if his blood was tainted enough for the gods to reject him from Jadul Mara, that didn't mean he didn't seek their acceptance. The gift the gods bestowed him as a pruktau further suggested their trust in him.
 
 Before formally making her recommendation, the pajas pointed out that sending Jigo Kadas to Earth would not go unnoticed. The GPO must be prepared to explain themselves to the public.
 

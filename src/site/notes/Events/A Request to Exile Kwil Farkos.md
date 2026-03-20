@@ -18,7 +18,7 @@ Hako protested that she should be the one condemned to Earth. She performed the 
 
 Hako had the opposite reaction. "Pajas, I rescind my suggestion. We've caused enough suffering. The gods would not smile upon torture."
 
-She knew Kwil had attempted suicide once. He said he'd never repeat that mistake, but depriving him of his means of atonement and service to his gods might inspire him to change his mind. While she had a terrible feeling that exile on Earth would kill him just as well, she supposed he would take more responsibility than he should no matter where he was.
+She knew Kwil had attempted suicide once. He said he'd never repeat that mistake, but depriving him of his means of atonement and service to his gods might inspire him to change his mind. While she had a terrible feeling that exile on Earth would kill him just as well, he would take more responsibility than he should no matter where he was.
 
 The pajas agreed to their original arrangement. Hako and Kwil had until the end of the court session to say their goodbyes. Kwil's exile would begin immediately within the GPO Headquarters until Logan was ready to return to Earth. Kwil and Hako's marriage contract would remain intact to avoid suspicion. Should they choose to break it after the GPO's failure was made public, it would be done remotely through a [[Concepts/Court Attendants\|Court Attendant]]. Kwil and Hako were to never see each other again. Knowing this, in their final moments together, Hako established a deeper connection with Kwil, a form of mind reading where she would always feel the emotions he felt.
 
