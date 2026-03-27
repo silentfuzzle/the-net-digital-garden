@@ -37,4 +37,3 @@ Before formally making her recommendation, the pajas pointed out that sending Ji
 Hako agreed this was an opportunity to end the GPO's and the Pajasul Court's secrecy. It was time for the GPO to shed light on the rot and face the consequences of their actions. Who better to expose them than Jigo Kadas? Perhaps this was why the gods needed him here. This was the gods' will, and the chance they had given baltariks for mercy.
 
 "I want it to be public," Draska said to the pajas. "I want everyone to know Jigo Kadas will go to Earth, and I want them to know _you_ permitted it."
-
